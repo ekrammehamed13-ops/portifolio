@@ -5,7 +5,7 @@ import {
 
 export const personalInfo = {
   name: "Ekram Mehammedabdu",
-  title: "Software Engineer",
+  title: "Web Development",
   email: "ekrammehamed13@gmail.com",
   phone: "0901969880",
   location: "Ethiopia",
@@ -15,7 +15,7 @@ export const personalInfo = {
     "With expertise spanning both frontend and backend technologies, I specialize in creating seamless digital experiences that combine technical precision with elegant design. I believe in writing clean, maintainable code that stands the test of time.",
     "When I'm not coding, I'm exploring emerging technologies, contributing to open-source projects, or finding innovative solutions to complex problems. I'm always eager to take on new challenges and transform ideas into reality."
   ],
-  careerGoals: "To leverage my expertise in modern web technologies to build innovative solutions that positively impact users worldwide, while continuously growing as a software engineer and contributing to meaningful projects.",
+  careerGoals: "To leverage my expertise in modern web technologies to build innovative solutions that positively impact users worldwide, while continuously growing as a web developer and contributing to meaningful projects.",
   cvUrl: "/cv.pdf",
   profileImage: "/profile.jpg"
 };
